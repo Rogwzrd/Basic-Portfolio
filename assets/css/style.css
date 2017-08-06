@@ -1,0 +1,71 @@
+body {
+	margin: 0;
+	background-color: #f4f4f4;
+	font-family: 'Roboto', sans-serif;
+	background-image: url('../images/background-image-stone.jpg');
+
+}
+
+header {
+	background-color: #fff;
+	border-bottom: thick solid #ebebeb;
+	padding: 0px 0px 50px 0px;
+	height: 70px;
+}
+
+.my-name {
+	background-color: #4aaaa5;
+	color: #fff;
+	float: left;
+	position: relative;
+	bottom: 0px;
+	left: 25px;
+	vertical-align: middle;
+	padding: 20px 20px 20px 20px;
+}
+
+.navigation {
+	text-decoration: none;
+	float: right;
+	line-height: 100px;
+	margin: 0px 40px;
+}
+
+.connect-with-me {
+	float: left;
+	background-color: #fff;
+	max-width: 40%;
+	margin: 5%;
+	padding: 2.5%;
+}
+
+.image_links {
+	border-top: thick solid #ebebeb;
+	padding: 15px 0px 0px 0px;
+}
+
+.about-me {
+	background-color: #fff;
+	max-width: 40%;
+	margin: 5%;
+	float: left;
+	padding: 2.5%;
+}
+
+.about-me p {
+	border-top: thick solid #ebebeb;
+	padding: 15px 0px 0px 0px;
+
+}
+
+footer {
+	background-color: #3c3c3b;
+	text-align: center;
+	border-top: thick solid #4aaaa5;
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	height: 45px;
+	color: #fff;
+	line-height: 30px;
+}
